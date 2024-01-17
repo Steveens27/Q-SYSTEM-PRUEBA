@@ -1,0 +1,13 @@
+pe\com\prueba\rolly\infrastructure\controller\CentroDistribucionController.class
+pe\com\prueba\rolly\domain\Persona.class
+pe\com\prueba\rolly\Prueba.class
+pe\com\prueba\rolly\application\CentroDistribucionServiceImpl.class
+pe\com\prueba\rolly\infrastructure\controller\PersonaControllerImpl.class
+pe\com\prueba\rolly\application\PersonAServiceImpl.class
+pe\com\prueba\rolly\infrastructure\controller\CentroDistribucionControllerImpl.class
+pe\com\prueba\rolly\domain\CentroDistribucion.class
+pe\com\prueba\rolly\application\PersonAService.class
+pe\com\prueba\rolly\infrastructure\controller\PersonaController.class
+pe\com\prueba\rolly\application\Operacion.class
+pe\com\prueba\rolly\application\CentroDistribucionService.class
+pe\com\prueba\rolly\application\OperacionesService.class
